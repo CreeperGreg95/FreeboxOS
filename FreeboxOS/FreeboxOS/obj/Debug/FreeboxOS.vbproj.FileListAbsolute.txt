@@ -1,0 +1,15 @@
+F:\Visual Studio Projects\2022\FreeboxOS\FreeboxOS\bin\Debug\FreeboxOS.exe.config
+F:\Visual Studio Projects\2022\FreeboxOS\FreeboxOS\bin\Debug\FreeboxOS.exe
+F:\Visual Studio Projects\2022\FreeboxOS\FreeboxOS\bin\Debug\FreeboxOS.pdb
+F:\Visual Studio Projects\2022\FreeboxOS\FreeboxOS\bin\Debug\FreeboxOS.xml
+F:\Visual Studio Projects\2022\FreeboxOS\FreeboxOS\obj\Debug\FreeboxOS.vbproj.AssemblyReference.cache
+F:\Visual Studio Projects\2022\FreeboxOS\FreeboxOS\obj\Debug\FreeboxOS.MenuFreebox.resources
+F:\Visual Studio Projects\2022\FreeboxOS\FreeboxOS\obj\Debug\FreeboxOS.Resources.resources
+F:\Visual Studio Projects\2022\FreeboxOS\FreeboxOS\obj\Debug\FreeboxOS.StartUp.resources
+F:\Visual Studio Projects\2022\FreeboxOS\FreeboxOS\obj\Debug\FreeboxOS.vbproj.GenerateResource.cache
+F:\Visual Studio Projects\2022\FreeboxOS\FreeboxOS\obj\Debug\FreeboxOS.vbproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\2022\FreeboxOS\FreeboxOS\obj\Debug\FreeboxOS.exe
+F:\Visual Studio Projects\2022\FreeboxOS\FreeboxOS\obj\Debug\FreeboxOS.xml
+F:\Visual Studio Projects\2022\FreeboxOS\FreeboxOS\obj\Debug\FreeboxOS.pdb
+F:\Visual Studio Projects\2022\FreeboxOS\FreeboxOS\obj\Debug\FreeboxOS.vbproj.SuggestedBindingRedirects.cache
+F:\Visual Studio Projects\2022\FreeboxOS\FreeboxOS\obj\Debug\FreeboxOS.LeaveApp.resources
